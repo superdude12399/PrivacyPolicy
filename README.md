@@ -1,4 +1,4 @@
-# PrivacyPolicy
+# GunWorld VR PrivacyPolicy (Oculus Quest)
 
 Privacy Policy
 Anthony Studios built the GunWorld VR app as a Commercial app. This SERVICE is provided by Anthony Studios and is intended for use as is.

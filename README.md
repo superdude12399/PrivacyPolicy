@@ -93,6 +93,9 @@ The Company will retain Your Personal Data only for as long as is necessary for 
 
 The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
 
+## Deletion of Personal Data
+The company will allow users to delete colledted data. Contact us at gunworldvr@gmail(dot)com to request deletion of your personal data. 
+
 ## Transfer of Your Personal Data
 Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
 
@@ -136,5 +139,5 @@ We will let You know via email and/or a prominent notice on Our Service, prior t
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, You can contact us and reach out to us
+If you have any questions about this Privacy Policy, You can contact us and reach out to us at:
 gunworldvr@gmail(dot)com

@@ -79,6 +79,15 @@ We may share Your personal information in the following situations:
 - With business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.
 - With other users: when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. If You interact with other users or register through a Third-Party Social Media Service, Your contacts on the Third-Party Social Media Service may see Your name, profile, pictures and description of Your activity. Similarly, other users will be able to view descriptions of Your activity, communicate with You and view Your profile.
 - With Your consent: We may disclose Your personal information for any other purpose with Your consent.
+- We may collect personal information on other platforms by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+- Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+- We will collect and use personal information solely for fulfilling those purposes specified by us and for other ancillary purposes, unless we obtain the consent of the individual concerned or as required by law.
+- Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+- We will protect personal information by using reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+- We will make readily available to customers information about our policies and practices relating to the management of personal information.
+- We will only retain personal information for as long as necessary for the fulfilment of those purposes.
+- We will collect behaviour and gameplay information only for non-nefarious purposes
+
 ##  Retention of Your Personal Data
 The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 

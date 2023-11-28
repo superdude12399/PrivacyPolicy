@@ -19,7 +19,7 @@ For the purposes of this Privacy Policy:
 
 - Application means the software program provided by the Company downloaded by You on any electronic device, named GunWorld VR
 
-- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to GunWorld VR.
+- Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Alto Interactive.
 
 - Country refers to: USA
 
